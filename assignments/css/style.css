@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 body {
-    margin: 0px 10%
+    margin: 0px 10%;
     background-image: url("../images/sakura.png");
 }
 header {
@@ -34,5 +34,7 @@ h3 {
     display: grid;
     gap: 1.5rem; 
     grid-template-columns: repeat(12, 1fr);
-    
+}
+.container > * {
+    grid-column: span 12;
 }
