@@ -1,9 +1,10 @@
 body {
     margin: 0px 10%
     font-family: sans-serif;
+    background-image: url("../images/sakura.png")
 }
 .container {
-    background-image: ;
+    background-color: white;
 }
 header {
     background-color: #9abcf8;
