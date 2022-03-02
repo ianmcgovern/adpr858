@@ -47,6 +47,6 @@ h3 {
         grid-column: span 8;
     }
     .col-span-4 {
-        grid-column: span 8;
+        grid-column: span 4;
     }
 }
