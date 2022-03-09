@@ -36,7 +36,6 @@ main {
     font-size: 60px;
     color: wheat;
     background-color: darkslategray;
-    justify-content: right;
 }
 
 /******* Layout *******/
@@ -75,7 +74,7 @@ main {
     gap: 1.5rem; 
     width: min(95%, 75rem);
     padding: 15rem; 
-    justify-content: center;
+    justify-content: space-between;
     display: flex;
 }
 
@@ -105,6 +104,12 @@ main {
     }
     .col-span-2 {
         grid-column: span 2;
+    }
+    .col-span-6 {
+        grid-column: span 6;
+    }
+    .col-span-3 {
+        grid-column: span 3;
     }
 }
     
