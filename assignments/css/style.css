@@ -72,6 +72,7 @@ a:hover {
     justify-content: right;
     display:inline-block;
     margin: .25rem .25rem 0;
+    transition: background-color 0.5s ease;
 }
 .button:hover {
     background-color: seagreen;
