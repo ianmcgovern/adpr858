@@ -59,6 +59,11 @@ a:hover {
     }
 }
 
+/******* Navigation Using Flexbox *******/
+nav {
+    background-color:palevioletred; 
+}
+
 /******* Components *******/
 .button:link, .button:visited {
     color: white;
