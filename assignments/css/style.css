@@ -69,4 +69,5 @@ a:hover {
     border-radius: .25rem;
     box-shadow: 0 .25rem .25rem purple;
     display:inline-flex;
+    justify-content: right;
 }
