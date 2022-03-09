@@ -27,6 +27,14 @@ h3 {
     border: 5px solid #9abcf8;
 
 }
+a:link, a:visited {
+    color: #9abcf8; 
+    text-decoration: none;
+}
+a:hover {
+    color: #6e8fc7; 
+    text-decoration: underline;
+}
 
 /******* Layout *******/
 .container {
@@ -49,4 +57,11 @@ h3 {
     .col-span-4 {
         grid-column: span 4;
     }
+}
+
+/******* Components *******/
+.button:link, .button:visited {
+    color: white;
+    background-color: #9abcf8;
+    padding: 
 }
