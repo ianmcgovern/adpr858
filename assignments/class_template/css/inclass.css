@@ -45,23 +45,30 @@ img {
 .container > * {
     grid-column: span 12;
 }
+.container-lg {
+    background-color: blue;
+    width: min(100%, 100rem);
+    margin: 0 auto;
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(12, 1fr);
+}
+.container-lg > * {
+    grid-column: span 12;
+}
 
 /******* Desktop Layout *******/
 @media screen and (min-width: 40rem) {
     .site-id {
         grid-column: 1 / span 6;
-        background-color: #033f5f;
     }
     .menu {
         grid-column: 7 / span 6;
-        background-color: #0b5f03;
     }
     .company {
         grid-column: 1 / span 8;
-        background-color: purple;
     }
     .company-image {
         grid-column: 9 / span 4;
-        background-color: yellow;
     }
 }
