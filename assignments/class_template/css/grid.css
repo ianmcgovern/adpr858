@@ -32,11 +32,6 @@ p, ul, ol {
 img {
     max-width: 100%;
 }
-main {
-    font-size: 60px;
-    color: wheat;
-    background-color: darkslategray;
-}
 
 /******* Layout *******/
 .container {
@@ -68,14 +63,13 @@ main {
     width: min(95%, 75rem);
     justify-content: space-between;
 }
-
-main {
-    margin: 0 auto;
-    gap: 1.5rem; 
-    width: min(95%, 75rem);
-    padding: 15rem; 
+.row {
+    grid-template-columns: repeat(12, 1fr);
+    grid-column: span 12; 
     justify-content: space-between;
-    display: flex;
+    display: grid; 
+    margin: 0 auto; 
+    width: min(95%, 75rem)
 }
 
 /******* Desktop Layout *******/
@@ -100,7 +94,7 @@ main {
         grid-column: span 4;
     }
     .col-span-12 {
-        grid-column: 6 /span 12;
+        grid-column: 12 /span 12;
     }
     .col-span-2 {
         grid-column: span 2;
