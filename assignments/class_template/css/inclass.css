@@ -35,7 +35,7 @@ img {
 
 /******* Layout *******/
 .container {
-    background-color: red;
+    background-color: white;
     width: min(95%, 75rem);
     margin: 0 auto;
     display: grid;
@@ -56,11 +56,20 @@ img {
 .container-lg > * {
     grid-column: span 12;
 }
+.portfolio {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(5, 1fr);
+    padding-bottom: 2rem;
+}
 .primary-color {
     background-color: var(--primary-color);
 }
 .highlight-color {
     background-color: var(--highlight-color);
+}
+.text-center {
+    text-align: center;
 }
 
 /******* Desktop Layout *******/
