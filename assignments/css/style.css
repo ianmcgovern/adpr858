@@ -20,8 +20,11 @@ h2 {
 
 }
 h3 {
-    font-size: 1.25rem;
+    font-size: 1.25rem; 
 }
+img {
+    max-width: 100%;
+}   
 .circle {
     border-radius: 35%;
     border: 5px solid #9abcf8;
@@ -108,4 +111,18 @@ nav a:hover {
 }
 .button:hover {
     background-color: palevioletred;
+}
+.card {
+    text-align: center;
+    margin: 1rem;
+    padding-bottom: 2rem;
+    box-shadow: 0 .25rem .25rem purple;
+}
+.card-title {
+    margin: 0.75rem 0 0 0;
+    padding: 0 2rem 0.5rem;
+}
+.card-text {
+    margin: 0.5rem 0 1rem 0;
+    padding: 0 2rem 0.5rem;
 }
