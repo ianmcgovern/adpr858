@@ -1,0 +1,136 @@
+* {
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body {
+    margin: 0px 10%;
+    background-image: url("../images/sakura.png");
+}
+header {
+    background-color: #9abcf8;
+    color: white;
+    padding: 2rem; 
+}
+h1 {
+    font-size: 2rem;
+
+}
+h2 {
+    font-size: 1.5rem;
+
+}
+h3 {
+    font-size: 1.25rem; 
+}
+img {
+    max-width: 100%;
+}   
+.circle {
+    border-radius: 35%;
+    border: 5px solid #9abcf8;
+
+}
+a:link, a:visited {
+    color: #9abcf8; 
+    text-decoration: none;
+}
+a:hover {
+    color: #6e8fc7; 
+    text-decoration: underline;
+}
+
+/******* Layout *******/
+.container {
+    background-color: white;
+    display: grid;
+    gap: 1.5rem; 
+    grid-template-columns: repeat(12, 1fr);
+    margin: 0 auto;
+    width: min(95%, 75rem);
+}
+.container > * {
+    grid-column: span 12;
+}
+
+/******* Desktop Layout *******/
+@media screen and (min-width: 60rem) {
+    .col-span-8 {
+        grid-column: span 8;
+    }
+    .col-span-4 {
+        grid-column: span 4;
+    }
+    .work-section {
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+    .card {
+        flex-basis: 27.5%;
+    }
+}
+
+/******* Navigation Using Flexbox *******/
+nav {
+    background-color:palevioletred; 
+    padding: 0 1rem;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+}
+nav li {
+    margin: 0 0.5rem;
+}
+nav a:link, nav a:visited {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: 1.5rem;
+    display: block;
+    transition: ease-in-out 500ms;
+}
+nav a:hover {
+    background-color: grey;
+    color: white;
+}
+
+/******* Components *******/
+.button:link, .button:visited {
+    color: white;
+    background-color: #9abcf8;
+    text-align:center;
+    text-decoration: none;
+    padding: 1.5rem 2rem;
+    border-radius: .25rem;
+    box-shadow: 0 .25rem .25rem purple;
+    display:inline-flex;
+    justify-content: right;
+    display:inline-block;
+    margin: .25rem .25rem 0;
+    transition: background-color 0.5s ease;
+}
+.button:hover {
+    background-color: palevioletred;
+}
+.card {
+    text-align: center;
+    margin: 1rem;
+    padding-bottom: 2rem;
+    box-shadow: 0 .25rem .25rem purple;
+}
+.card-title {
+    margin: 0.75rem 0 0 0;
+    padding: 0 2rem 0.5rem;
+}
+.card-text {
+    margin: 0.5rem 0 1rem 0;
+    padding: 0 2rem 0.5rem;
+}
