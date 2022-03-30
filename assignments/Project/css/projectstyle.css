@@ -7,17 +7,14 @@ body {
     background-color: #f8e6dc; 
 }
 header {
-    background-color: #9abcf8;
-    color: white;
+    color: black;
     padding: 2rem; 
 }
 h1 {
-    font-size: 2rem;
-
+    font-size: 1rem;
 }
 h2 {
     font-size: 1.5rem;
-
 }
 h3 {
     font-size: 1.25rem; 
@@ -28,7 +25,6 @@ img {
 .circle {
     border-radius: 35%;
     border: 5px solid #9abcf8;
-
 }
 a:link, a:visited {
     color: #9abcf8; 
