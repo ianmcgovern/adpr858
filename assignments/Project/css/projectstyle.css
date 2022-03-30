@@ -69,7 +69,7 @@ a:hover {
 
 /******* Navigation Using Flexbox *******/
 nav {
-    padding: 0 1rem;
+    padding: 0 0rem;
     justify-content: center;
     position: sticky;
     top: 0;
