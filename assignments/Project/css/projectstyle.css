@@ -36,7 +36,7 @@ a:hover {
     text-decoration: underline;
 }
 .major-button:hover {
-    box-shadow: black;
+    box-shadow: 0.5rem 0 0.5rem 0 black;
     background-color: white;
 }
 
@@ -125,11 +125,11 @@ nav a:link, nav a:visited {
     box-shadow: 0;
     background-color: white;
     border-color: black;
-    border-radius: 0.25rem;
+    border-radius: 0rem;
     border-width: 0.5rem;
 }
 .major-button:hover {
-    box-shadow: black;
+    box-shadow: ;
 }
 .card-title {
     margin: 0rem 0 0 0;
