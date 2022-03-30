@@ -7,11 +7,12 @@ body {
     background-color: #f8e6dc; 
 }
 header {
+    background-color: #f8e6dc;
     color: black;
-    padding: 2rem; 
+    padding: 1rem; 
 }
 h1 {
-    font-size: 1rem;
+    font-size: 1.25rem;
 }
 h2 {
     font-size: 1.5rem;
