@@ -39,7 +39,9 @@ a:hover {
     box-shadow: 0rem 0.3rem 0.5rem 0rem black;
     background-color: white;
     transition: ease-in-out 500ms;
-    border-color: black;
+}
+.major-button {
+    border: black;
 }
 
 /******* Layout *******/
