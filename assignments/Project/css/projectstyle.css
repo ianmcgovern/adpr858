@@ -117,6 +117,8 @@ nav a:link, nav a:visited {
     margin: 0rem;
     padding-bottom: 1rem;
     box-shadow: 0;
+    background-color: white;
+    border: black;
 }
 .card-title {
     margin: 0rem 0 0 0;
