@@ -132,4 +132,5 @@ nav a:link, nav a:visited {
 .card-text {
     margin: 0rem 2 0rem 0;
     padding: 0 0rem 0rem;
+    padding-left: 0.5rem;
 }
