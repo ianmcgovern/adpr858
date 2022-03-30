@@ -42,6 +42,7 @@ a:hover {
 }
 .major-button {
     border: black;
+    border-width: 0.2rem;
 }
 
 /******* Layout *******/
