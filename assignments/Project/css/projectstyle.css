@@ -36,7 +36,7 @@ a:hover {
     text-decoration: underline;
 }
 .major-button:hover {
-    color:white
+    box-shadow: black;
 }
 
 /******* Layout *******/
