@@ -69,12 +69,12 @@ a:hover {
 
 /******* Navigation Using Flexbox *******/
 nav {
-    background-color:palevioletred; 
     padding: 0 1rem;
     display: flex;
     justify-content: center;
     position: sticky;
     top: 0;
+    
 }
 nav ul {
     margin: 0;
@@ -93,10 +93,6 @@ nav a:link, nav a:visited {
     padding: 1.5rem;
     display: block;
     transition: ease-in-out 500ms;
-}
-nav a:hover {
-    background-color: grey;
-    color: white;
 }
 
 /******* Components *******/
