@@ -35,6 +35,9 @@ a:hover {
     color: #6e8fc7; 
     text-decoration: underline;
 }
+.major-button:hover {
+    color:white
+}
 
 /******* Layout *******/
 .container {
@@ -63,7 +66,7 @@ a:hover {
         flex-flow: row wrap;
         border: black;
     }
-    .card {
+    .major-button {
         flex-basis: 27.5%;
     }
 }
@@ -96,7 +99,7 @@ nav a:link, nav a:visited {
 }
 
 /******* Components *******/
-.minor button:link, .minor button:visited {
+.minor-button:link, .minor-button:visited {
     color: white;
     background-color: #9abcf8;
     text-align:center;
@@ -110,10 +113,10 @@ nav a:link, nav a:visited {
     margin: .25rem .25rem 0;
     transition: background-color 0.5s ease;
 }
-.minor button:hover {
+.minor-button:hover {
     background-color: palevioletred;
 }
-.card {
+.major-button {
     text-align: left;
     margin: 0rem;
     margin-bottom: 2rem;
@@ -124,7 +127,7 @@ nav a:link, nav a:visited {
     border-radius: 0.25rem;
     border-width: 0.5rem;
 }
-.card:hover {
+.major-button:hover {
     box-shadow: black;
 }
 .card-title {
