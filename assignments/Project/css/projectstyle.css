@@ -120,6 +120,7 @@ nav a:link, nav a:visited {
     box-shadow: 0;
     background-color: white;
     border: black;
+    border-radius: 0.25rem;
 }
 .card-title {
     margin: 0rem 0 0 0;
