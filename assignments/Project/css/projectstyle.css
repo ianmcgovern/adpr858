@@ -80,7 +80,7 @@ nav ul {
     display: flex;
 }
 nav li {
-    margin: 0 0.5rem;
+    margin: 0 0rem;
 }
 nav a:link, nav a:visited {
     color: black;
