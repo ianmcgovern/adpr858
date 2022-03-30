@@ -75,6 +75,7 @@ nav {
 }
 nav ul {
     margin: 0rem;
+    margin-top: 2rem;
     padding: 0;
     list-style: none;
     display: flex;
