@@ -36,7 +36,7 @@ a:hover {
     text-decoration: underline;
 }
 .major-button:hover {
-    box-shadow: 0.30rem black;
+    box-shadow: 0rem 0.30rem black;
     background-color: white;
     transition: ease-in-out 500ms;
 }
