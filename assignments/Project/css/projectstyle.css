@@ -96,7 +96,7 @@ nav a:link, nav a:visited {
 }
 
 /******* Components *******/
-.button:link, .button:visited {
+.minor button:link, .minor button:visited {
     color: white;
     background-color: #9abcf8;
     text-align:center;
@@ -110,7 +110,7 @@ nav a:link, nav a:visited {
     margin: .25rem .25rem 0;
     transition: background-color 0.5s ease;
 }
-.button:hover {
+.minor button:hover {
     background-color: palevioletred;
 }
 .card {
