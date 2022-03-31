@@ -38,7 +38,7 @@ a:hover {
 .major-button:hover {
     box-shadow: 0rem 0.3rem 0.5rem 0rem black;
     background-color: white;
-    right: 1rem; 
+    flex-flow: wrap; 
     transition: ease-in-out 500ms;
 }
 .major-button {
@@ -134,9 +134,6 @@ nav a:link, nav a:visited {
     border-color: black;
     border-radius: 0rem;
     border-width: 0.5rem;
-}
-.major-button:hover {
-    box-shadow: ;
 }
 .card-title {
     margin: 0rem 0 0 0;
