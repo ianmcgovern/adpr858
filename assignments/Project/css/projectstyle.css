@@ -38,7 +38,7 @@ a:hover {
 .major-button:hover {
     box-shadow: 0rem 0.3rem 0.5rem 0rem black;
     background-color: white;
-    justify-content: right;
+    right: 1rem; 
     transition: ease-in-out 500ms;
 }
 .major-button {
