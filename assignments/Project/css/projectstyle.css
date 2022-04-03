@@ -89,7 +89,7 @@ nav {
     padding: 0;
     top: 0;
     display: flex;
-    position: sticky;
+    position: fixed;
 }
 nav ul {
     margin: 0rem;
