@@ -85,13 +85,12 @@ a:hover {
 nav {
     padding: 0;
     top: 0;
-    display: flex;
+    display: inline;
     position: sticky;
 }
 nav ul {
     margin: 0rem;
     margin-top: 1rem;
-    list-style: none;
     padding: 0
 }
 nav li {
