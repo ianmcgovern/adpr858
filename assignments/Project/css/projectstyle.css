@@ -44,7 +44,7 @@ a:hover {
     border: thin solid;
     border-color: black;
 }
-nav ul::-webkit-scrollbar {
+nav::-webkit-scrollbar {
     background-color: white;
 }
 
