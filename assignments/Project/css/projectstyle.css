@@ -85,7 +85,7 @@ a:hover {
 nav {
     padding: 0;
     top: 0;
-    display: table;
+    display: grid;
     position: sticky;
 }
 nav ul {
