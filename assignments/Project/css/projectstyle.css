@@ -85,6 +85,8 @@ a:hover {
 nav {
     padding: 0 0rem;
     top: 0;
+    display: flex;
+    position: sticky;
 }
 nav ul {
     margin: 0rem;
@@ -92,7 +94,7 @@ nav ul {
     padding: 0rem;
     list-style: none;
     display: flex;
-    position: relative;
+    flex-flow: row wrap;
 }
 nav li {
     float: right;
