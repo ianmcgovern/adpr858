@@ -142,8 +142,8 @@ nav a:link, nav a:visited {
 .large-card-subtitle {
     margin: 0rem 0 0 0;
     padding: 0.25 0.25 0rem;
-    padding-top: 1rem;
-    padding-left: 1rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
 }
 .major-button {
     text-align: left;
