@@ -83,6 +83,7 @@ a:hover {
 
 /******* Navigation Using Flexbox *******/
 nav {
+    padding: 0;
     top: 0;
     display: flex;
     position: sticky;
@@ -92,6 +93,7 @@ nav ul {
     margin-top: 1rem;
     list-style: none;
     display: flex;
+    padding: 0
 }
 nav li {
     padding: 0;
