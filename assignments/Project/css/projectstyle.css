@@ -100,7 +100,6 @@ nav a:link, nav a:visited {
     font-size: 1.5rem;
     font-weight: bold;
     transition: ease-in-out 500ms;
-    display: block; 
 }
 
 /******* Components *******/
