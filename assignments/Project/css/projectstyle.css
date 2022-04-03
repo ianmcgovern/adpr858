@@ -41,7 +41,7 @@ a:hover {
     transition: ease-in-out 500ms;
 }
 .major-button {
-    border: 2px solid;
+    border: 1px solid;
     border-color: black;
 }
 
