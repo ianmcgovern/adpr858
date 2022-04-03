@@ -92,7 +92,7 @@ nav ul {
     padding: 0;
     list-style: none;
     display: flex;
-    position: fixed;
+    position: sticky;
 }
 nav li {
     margin: 0rem;
