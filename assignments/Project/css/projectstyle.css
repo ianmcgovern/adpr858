@@ -93,7 +93,7 @@ nav ul {
     margin-top: 1rem;
     padding: 0;
     list-style: none;
-    flex-flow: row wrap;
+    flex-flow: nowrap;
     display: flex;
 }
 nav li {
