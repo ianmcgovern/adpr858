@@ -83,7 +83,6 @@ a:hover {
 
 /******* Navigation Using Flexbox *******/
 nav {
-    padding: 0 0rem;
     top: 0;
     display: flex;
     position: sticky;
@@ -91,7 +90,6 @@ nav {
 nav ul {
     margin: 0rem;
     margin-top: 1rem;
-    padding: 0rem;
     list-style: none;
     display: flex;
     flex-flow: row wrap;
