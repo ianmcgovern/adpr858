@@ -92,10 +92,10 @@ nav ul {
     padding: 0rem;
     list-style: none;
     display: flex;
-    position: sticky;
+    position: relative;
 }
 nav li {
-    padding-right: 30rem;
+    float: right;
 }
 nav a:link, nav a:visited {
     color: black;
