@@ -38,11 +38,10 @@ a:hover {
 .major-button:hover {
     box-shadow: 0rem 0.3rem 0.5rem 0rem black;
     background-color: white;
-    flex-flow: wrap; 
     transition: ease-in-out 500ms;
 }
 .major-button {
-    border: black;
+    border: 5px solid;
     border-width: 1;
     border-color: black;
 }
