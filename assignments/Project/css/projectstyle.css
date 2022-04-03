@@ -97,6 +97,9 @@ nav ul {
 nav li {
     margin: 0rem;
 }
+.ham {
+    float: right;
+}
 nav a:link, nav a:visited {
     color: black;
     text-decoration: none;
@@ -145,7 +148,6 @@ nav a:link, nav a:visited {
     padding-top: 2rem;
     padding-left: 4rem;
     background-color: lightgrey;
-    background;
 }
 .major-button {
     text-align: left;
