@@ -87,6 +87,7 @@ nav {
     top: 0;
     display: inline;
     position: sticky;
+    list-style: none;
 }
 nav ul {
     margin: 0rem;
