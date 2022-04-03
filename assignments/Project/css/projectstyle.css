@@ -89,14 +89,12 @@ nav {
 nav ul {
     margin: 0rem;
     margin-top: 1rem;
-    padding: 0;
+    padding: 40rem;
     list-style: none;
     display: flex;
     position: sticky;
 }
-nav li {
-    
-}
+nav li {}
 .ham {
     text-align: right;
 }
