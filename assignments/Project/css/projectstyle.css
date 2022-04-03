@@ -98,7 +98,7 @@ nav li {
     margin: 0rem;
 }
 .ham {
-    float: right;
+    text-align: right;
 }
 nav a:link, nav a:visited {
     color: black;
