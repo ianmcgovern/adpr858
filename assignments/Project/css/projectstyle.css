@@ -70,10 +70,14 @@ a:hover {
         display: flex;
         justify-content: center;
         flex-flow: row wrap;
-        border: black;
     }
     .major-button {
         flex-basis: 27.5%;
+    }
+    .large-card {
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
     }
 }
 
@@ -122,6 +126,13 @@ nav a:link, nav a:visited {
 .minor-button:hover {
     background-color: palevioletred;
 }
+.large-card {
+    text-align: left;
+    margin: 0rem; 
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    background-color: white;
+}
 .major-button {
     text-align: left;
     margin: 0rem;
@@ -129,9 +140,6 @@ nav a:link, nav a:visited {
     padding-bottom: 1rem;
     box-shadow: 0;
     background-color: white;
-    border-color: black;
-    border-radius: 0rem;
-    border-width: 0.5rem;
 }
 .card-title {
     margin: 0rem 0 0 0;
