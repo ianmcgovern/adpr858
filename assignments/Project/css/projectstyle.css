@@ -89,14 +89,13 @@ nav {
 nav ul {
     margin: 0rem;
     margin-top: 1rem;
-    padding: 40rem;
+    padding: 0rem;
     list-style: none;
     display: flex;
     position: sticky;
 }
-nav li {}
-.ham {
-    text-align: right;
+nav li {
+    padding-right: 30rem;
 }
 nav a:link, nav a:visited {
     color: black;
