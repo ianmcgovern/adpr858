@@ -85,7 +85,7 @@ a:hover {
 nav {
     padding: 0;
     top: 0;
-    display: flex;
+    display: inline;
     position: sticky;
 }
 nav ul {
@@ -93,8 +93,7 @@ nav ul {
     margin-top: 1rem;
     padding: 0;
     list-style: none;
-    flex-flow: nowrap;
-    display: flex;
+    display: inline;
 }
 nav li {
     padding: 0;
