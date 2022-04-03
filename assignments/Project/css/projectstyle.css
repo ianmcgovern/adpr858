@@ -87,13 +87,13 @@ nav {
     top: 0;
     display: flex;
     position: sticky;
-    list-style: none;
-    flex-flow: row wrap;
 }
 nav ul {
     margin: 0rem;
     margin-top: 1rem;
-    padding: 0
+    padding: 0;
+    list-style: none;
+    flex-flow: row wrap;
 }
 nav li {
     padding: 0;
