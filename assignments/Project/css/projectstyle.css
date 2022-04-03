@@ -107,6 +107,7 @@ nav a:link, nav a:visited {
     padding: 0rem;
     margin: 0rem; 
     transition: ease-in-out 500ms;
+    display: block; 
 }
 
 /******* Components *******/
