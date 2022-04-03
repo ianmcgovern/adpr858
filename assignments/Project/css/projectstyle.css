@@ -45,7 +45,7 @@ a:hover {
     border-color: black;
 }
 nav::-webkit-scrollbar {
-    background-color: white;
+    color: white;
 }
 
 /******* Layout *******/
