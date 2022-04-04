@@ -139,7 +139,8 @@ nav a:link, nav a:visited {
     padding-left: 0.5rem; 
 }
 .large-card-subtitle {
-    box-sizing: content-box;
+    grid-column-start: 1;
+    grid-column-end: 5;
     margin: 0rem 0 0 0;
     padding-top: 0.75rem;
     padding-left: 4rem;
