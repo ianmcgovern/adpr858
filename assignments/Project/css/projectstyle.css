@@ -44,10 +44,6 @@ a:hover {
     border: thin solid;
     border-color: black;
 }
-.large-card-subtitle {
-    grid-column-start: 1;
-    grid-column-end: 5;
-}
 
 /******* Layout *******/
 .container {
@@ -141,6 +137,7 @@ nav a:link, nav a:visited {
     padding: 0.25 0.25 0rem;
     padding-top: 0.5rem;
     padding-left: 0.5rem; 
+    padding-bottom: 1rem;
 }
 .large-card-subtitle {
     margin: 0rem 0 0 0;
