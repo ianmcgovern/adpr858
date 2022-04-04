@@ -44,9 +44,6 @@ a:hover {
     border: thin solid;
     border-color: black;
 }
-nav::-webkit-scrollbar {
-    color: white;
-}
 
 /******* Layout *******/
 .container {
@@ -100,7 +97,7 @@ nav ul {
     flex-flow: wrap;
 }
 nav li {
-    padding: 0;
+    padding: 25rem;
 }
 nav a:link, nav a:visited {
     color: black;
