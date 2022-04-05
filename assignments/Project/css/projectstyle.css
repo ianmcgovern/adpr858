@@ -59,7 +59,7 @@ a:hover {
 }
 
 /******* Desktop Layout *******/
-@media screen and (min-width: 60rem max-width: 60rem) {
+@media screen and (min-width: 40rem max-width: 60rem) {
     .col-span-8 {
         grid-column: span 8;
     }
@@ -145,6 +145,9 @@ nav a:link, nav a:visited {
     padding-left: 4rem;
     padding-bottom: 0.75rem;
     background-color: lightgrey;
+}
+.large-card-maintext {
+
 }
 .major-button {
     text-align: left;
