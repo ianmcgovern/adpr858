@@ -46,6 +46,7 @@ a:hover {
 }
 .large-card-maintext:hover {
     text-decoration: underline;
+    text-decoration-line: underline;
 }
 
 /******* Layout *******/
