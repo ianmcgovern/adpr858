@@ -48,6 +48,12 @@ a:hover {
     text-decoration: underline;
     text-decoration-line: underline;
 }
+.large-card-subtext:hover {
+    text-decoration-line: underline;
+}
+.large-card-subtext2:hover {
+    text-decoration-line: underline;
+}
 
 /******* Layout *******/
 .container {
