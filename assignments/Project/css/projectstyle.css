@@ -141,13 +141,18 @@ nav a:link, nav a:visited {
 }
 .large-card-subtitle {
     margin: 0rem 0 0 0;
-    padding-top: 0.75rem;
+    padding-top: 1rem;
     padding-left: 4rem;
     padding-bottom: 0.75rem;
     background-color: lightgrey;
 }
 .large-card-maintext {
-
+    padding-top: 0.75rem;
+    padding-left: 6rem;
+}
+.large-card-subtext {
+    padding-top: 0.5rem;
+    padding-left: 6rem;
 }
 .major-button {
     text-align: left;
