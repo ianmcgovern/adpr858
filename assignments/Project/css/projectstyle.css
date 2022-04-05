@@ -149,6 +149,8 @@ nav a:link, nav a:visited {
 .large-card-maintext {
     padding-top: 0.75rem;
     padding-left: 6rem;
+    font-weight: bold;
+    text-decoration: underline;
 }
 .large-card-subtext {
     padding-top: 0.5rem;
