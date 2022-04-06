@@ -125,6 +125,7 @@ nav a:link, nav a:visited {
     justify-content: right;
     margin: .25rem .25rem 0;
     transition: background-color 0.5s ease;
+    float: right;
 }
 .minor-button:hover {
     background-color:royalblue;
