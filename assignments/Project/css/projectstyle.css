@@ -84,10 +84,12 @@ a:hover {
         grid-column: span 4;
     }
     .left {
+        display: grid;
         grid-column: span 2;
         justify-content: left;
     }
     .right {
+        display: grid;
         grid-column: span 2;
         justify-content: right;
     }
