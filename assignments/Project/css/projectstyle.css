@@ -176,7 +176,7 @@ nav a:link, nav a:visited {
     padding-left: 6rem;
     font-weight: bold;
     display: grid;
-    grid-template-rows: span 1;
+    grid-row: span 1;
 }
 .large-card-subtext {
     padding-top: 0.5rem;
