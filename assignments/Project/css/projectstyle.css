@@ -197,7 +197,8 @@ nav a:link, nav a:visited {
 .medium-card {
     text-align: center;
     padding-top: 5rem;
-    -webkit-backdrop-filter: sepia(3px);
+    backdrop-filter: 3px;
+    filter: sepia(5px);
 }
 .major-button {
     text-align: left;
