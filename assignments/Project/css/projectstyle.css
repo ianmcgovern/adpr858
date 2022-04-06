@@ -46,6 +46,9 @@ img {
 .large-card-subtext2:hover {
     text-decoration-line: underline;
 }
+.minor-button2 {
+    display: inline-flex;
+}
 
 /******* Layout *******/
 .container {
