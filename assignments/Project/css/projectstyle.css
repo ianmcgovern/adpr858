@@ -27,14 +27,6 @@ img {
     border-radius: 35%;
     border: 5px solid #9abcf8;
 }
-a:link, a:visited {
-    color: #9abcf8; 
-    text-decoration: none;
-}
-a:hover {
-    color: #6e8fc7; 
-    text-decoration: underline;
-}
 .major-button:hover {
     box-shadow: 0rem 0.3rem 0.5rem 0rem black;
     background-color: white;
@@ -138,9 +130,10 @@ nav a:link, nav a:visited {
     text-align: center;
     padding: 0.5rem 0.75rem;
     border-radius: .25rem;
+    transition: background-color 0.5s ease;
 }
 .minor-buton2:hover {
-
+    background-color: lightgrey;
 }
 .large-card {
     text-align: left;
