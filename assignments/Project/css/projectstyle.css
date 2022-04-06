@@ -56,7 +56,6 @@ a:hover {
 .minor-button2 {
     display: flex;
     flex-flow: row wrap;
-    float: inline-start;
 }
 .heading {
     display: flex;
@@ -111,7 +110,7 @@ nav ul {
     padding: 0;
     list-style: none;
     display: flex;
-    flex-flow: wrap;
+    flex-flow: row;
 }
 nav li {
     padding-right: 25rem;
