@@ -83,6 +83,14 @@ a:hover {
     .col-span-4 {
         grid-column: span 4;
     }
+    .left {
+        grid-column: span 2;
+        justify-content: left;
+    }
+    .right {
+        grid-column: span 2;
+        justify-content: right;
+    }
     .work-section {
         display: flex;
         justify-content: center;
