@@ -111,6 +111,7 @@ nav ul {
     list-style: none;
     display: flex;
     flex-flow: row;
+    justify-content: space-evenly;
 }
 nav li {
     justify-content: space-evenly;
