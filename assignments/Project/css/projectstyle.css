@@ -174,19 +174,19 @@ nav a:link, nav a:visited {
     padding-left: 6rem;
     font-weight: bold;
     display: inline-block;
-    grid-column: span 4;
+    grid-column: span 2;
 }
 .large-card-subtext {
     padding-top: 0.5rem;
     padding-left: 6rem;
     display: inline-block;
-    grid-column: span 4;
+    grid-column: span 2;
 }
 .large-card-subtext2 {
     padding-top: 0.5rem;
     padding-left: 6rem;
     display: inline-block;
-    grid-column: span 4;
+    grid-column: span 2;
 }
 .major-button {
     text-align: left;
