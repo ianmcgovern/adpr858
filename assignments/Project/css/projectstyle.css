@@ -130,7 +130,7 @@ nav a:link, nav a:visited {
     text-decoration: none;
     padding: 0.5rem 0.75rem;
     border-radius: .25rem;
-    display:inline-flex;
+    display: block;
     justify-content: right;
     margin: .25rem .25rem 0;
     transition: background-color 0.5s ease;
@@ -146,7 +146,8 @@ nav a:link, nav a:visited {
     border-radius: .25rem;
     transition: background-color 0.5s ease;
     font-weight: bold;
-    float: right
+    float: right;
+    display: block;
 }
 .minor-buton2:hover {
     background-color: lightgrey;
