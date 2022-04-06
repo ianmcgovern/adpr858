@@ -113,7 +113,7 @@ nav ul {
     flex-flow: row;
 }
 nav li {
-    padding-right: 25rem;
+    justify-content: stretch;
 }
 nav a:link, nav a:visited {
     color: black;
