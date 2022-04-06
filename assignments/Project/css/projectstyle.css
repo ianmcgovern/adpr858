@@ -57,6 +57,10 @@ a:hover {
     display: flex;
     flex-flow: row wrap;
 }
+.heading {
+    display: flex;
+    flex-flow: row;
+}
 
 /******* Layout *******/
 .container {
@@ -175,7 +179,7 @@ nav a:link, nav a:visited {
     padding-left: 6rem;
     font-weight: bold;
     display: grid;
-    grid-column: span 6;
+    grid-column: span 6
 }
 .large-card-subtext {
     padding-top: 0.5rem;
