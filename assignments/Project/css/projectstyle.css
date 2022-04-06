@@ -121,7 +121,7 @@ nav a:link, nav a:visited {
 .minor-button:link, .minor-button:visited {
     color: white;
     background-color: blue;
-    text-align:center;
+    text-align: center;
     text-decoration: none;
     padding: 0.5rem 0.75rem;
     border-radius: .25rem;
@@ -132,6 +132,15 @@ nav a:link, nav a:visited {
 }
 .minor-button:hover {
     background-color:royalblue;
+}
+.minor-button2:link, .minor-button2:visited {
+    color: blue;
+    text-align: center;
+    padding: 0.5rem 0.75rem;
+    border-radius: .25rem;
+}
+.minor-buton2:hover {
+
 }
 .large-card {
     text-align: left;
