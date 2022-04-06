@@ -66,7 +66,7 @@ a:hover {
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
     width: min(100%, 75rem);
-    grid-template-rows: repeat(1);
+    grid-template-rows: repeat(12, 1fr);
 }
 .container > * {
     grid-column: span 12;
