@@ -60,6 +60,7 @@ a:hover {
 .heading {
     display: flex;
     flex-flow: row;
+    justify-content: space-evenly;
 }
 
 /******* Layout *******/
