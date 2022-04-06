@@ -197,6 +197,7 @@ nav a:link, nav a:visited {
 .medium-card {
     text-align: center;
     padding-top: 5rem;
+    padding-bottom: 3rem;
     backdrop-filter: sepia(2px);
     filter: sepia(2px);
     background-color: transparent; 
