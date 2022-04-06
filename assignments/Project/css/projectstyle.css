@@ -230,3 +230,7 @@ nav a:link, nav a:visited {
     display: grid;
     grid-column: 3 / span 1;
     justify-content: right;
+}
+.footer {
+    text-align: center;
+}
