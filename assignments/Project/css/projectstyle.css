@@ -176,6 +176,11 @@ nav a:link, nav a:visited {
     box-shadow: 0 0.5rem 0.5rem 0 black;
     padding-bottom: 1rem;
 }
+.small-card {
+    border: solid 2px;
+    border-color: black;
+    text-align: center;
+}
 .large-card {
     text-align: left;
     margin: 0rem; 
