@@ -131,7 +131,7 @@ nav a:link, nav a:visited {
     transition: background-color 0.5s ease;
 }
 .minor-button:hover {
-    background-color: palevioletred;
+    background-color:royalblue;
 }
 .large-card {
     text-align: left;
