@@ -196,7 +196,7 @@ nav a:link, nav a:visited {
 }
 .medium-card {
     text-align: center;
-    
+    padding-top: 5rem;
 }
 .major-button {
     text-align: left;
