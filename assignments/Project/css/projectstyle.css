@@ -198,6 +198,7 @@ nav a:link, nav a:visited {
     text-align: center;
     padding-top: 5rem;
     backdrop-filter: sepia(2px);
+    background-color: transparent; 
 }
 .major-button {
     text-align: left;
