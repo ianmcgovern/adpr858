@@ -154,6 +154,12 @@ nav a:link, nav a:visited {
 .minor-buton2:hover {
     background-color: lightgrey;
 }
+.new-card {
+    border: solid 2px;
+    border-color: black;
+    text-align: center;
+    box-shadow: 0 0.5rem 0.5rem 0 black;
+}
 .large-card {
     text-align: left;
     margin: 0rem; 
