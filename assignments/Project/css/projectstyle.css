@@ -114,7 +114,7 @@ nav ul {
     justify-content: space-evenly;
 }
 nav li {
-    justify-content: space-evenly;
+    padding-right: 25rem;
 }
 nav a:link, nav a:visited {
     color: black;
