@@ -56,11 +56,11 @@ a:hover {
 .minor-button2 {
     display: flex;
     flex-flow: row wrap;
+    float: inline-start;
 }
 .heading {
     display: flex;
     flex-flow: row;
-    justify-content: space-evenly;
 }
 
 /******* Layout *******/
