@@ -69,6 +69,7 @@ a:hover {
 }
 .container > * {
     grid-column: span 12;
+    grid-row: span 1;
 }
 
 /******* Desktop Layout *******/
