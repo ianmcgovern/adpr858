@@ -37,6 +37,9 @@ a:hover {
     font-family: "cursive";
     list-style: none;
 }
+.info ul {
+    display: grid;
+}
 /******* Nav Layout *******/
 nav {
     background-color:palevioletred; 
