@@ -92,7 +92,7 @@ nav li {
     justify-content: left;
     display: grid;
     grid-column: span 6;
-    margin: 2rem;
+    margin: 3rem;
     padding-bottom: 1rem;
     padding-left: 0rem;
 }
@@ -104,7 +104,7 @@ nav li {
     justify-content: left;
     display: grid;
     grid-column: span 6;
-    margin: 0rem;
+    margin: 3rem;
     padding-bottom: 1rem;
     padding-left: 0rem;
 }
