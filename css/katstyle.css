@@ -36,8 +36,6 @@ a:hover {
     font-style: italic;
     font-family: "cursive";
     list-style: none;
-    display: grid;
-    grid-column: 1 span;
 }
 /******* Nav Layout *******/
 nav {
