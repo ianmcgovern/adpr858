@@ -41,6 +41,7 @@ a:hover {
     display: grid;
     grid-column-start: 1;
     justify-content: left;
+    background-color: khaki;
 }
 /******* Nav Layout *******/
 nav {
