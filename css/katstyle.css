@@ -1,0 +1,106 @@
+body {
+    margin: auto 10%;
+    background-image: url(../images/Lanterns\ Ultra.png);
+}
+header {
+    color: snow;
+    text-align: center;
+    font-size: 35px;
+    padding: 2.5rem;
+    background-color: lightseagreen;
+    grid-column: span 12;
+}
+li {
+    color: black;
+    font-size: 25px;
+    font-family: "fantasy";
+}
+nav {
+    border: solid thin palevioletred;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+}
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: oldlace;
+    transition: ease-in-out 400ms;
+    border-left: oldlace thin;
+    border-right: oldlace thin;
+}
+.info li {
+    font-size: 20px;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: "cursive";
+    list-style: none;
+    display: grid;
+}
+/******* Nav Layout *******/
+nav {
+    background-color:palevioletred; 
+    padding: 0 1rem;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 0;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
+}
+nav li {
+    margin: 2rem;
+}
+
+/******* Layout *******/
+.container {
+    background-color: ivory;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    width: min(95%)
+    margin: auto;
+}
+.container > * {
+    grid-column: span 12;
+}
+.info {
+    display: inherit;
+    grid-template-columns: inherit;
+    grid-column: span 12;
+}
+
+/******* Desktop Layout *******/
+
+
+/******* Components *******/
+.graphic1 {
+    border-radius: 15%;
+    border: solid;
+    border-width: 5px;
+    border-color: plum;
+    justify-content: left;
+    display: grid;
+    grid-column: span 6;
+    margin: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+}
+.graphic2 {
+    border-radius: 15%;
+    border: solid;
+    border-width: 5px;
+    border-color: plum;
+    justify-content: left;
+    display: grid;
+    grid-column: span 6;
+    margin: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+}
+    
