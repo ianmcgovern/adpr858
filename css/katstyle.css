@@ -112,7 +112,6 @@ nav li {
 }
 .graphic-text {
     display: grid;
-    grid-column-start: span 3;
-    grid-column-end: span 4;
+    grid-column-start: 3;
 }
     
