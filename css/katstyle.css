@@ -39,6 +39,7 @@ a:hover {
 }
 .info ul {
     display: grid;
+    grid-column: span 2;
 }
 /******* Nav Layout *******/
 nav {
