@@ -89,7 +89,7 @@ nav li {
     border-width: 5px;
     border-color: plum;
     background-color: lavender;
-    justify-content: left;
+    justify-content: space-evenly;
     display: grid;
     grid-column: span 6;
     margin: 3rem;
@@ -101,7 +101,7 @@ nav li {
     border: solid;
     border-width: 5px;
     border-color: plum;
-    justify-content: left;
+    justify-content: space-evenly;
     display: grid;
     grid-column: span 6;
     margin: 3rem;
