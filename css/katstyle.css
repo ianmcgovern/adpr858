@@ -108,10 +108,10 @@ nav li {
 }
 .graphic-title {
     display: grid;
-    grid-column: auto;
+    grid-column: spa 2;
 }
 .graphic-text {
     display: grid;
-    grid-column: auto;
+    grid-column: span 2;
 }
     
