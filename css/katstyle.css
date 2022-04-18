@@ -40,7 +40,7 @@ a:hover {
 .info ul {
     display: grid;
     grid-column-start: 1;
-    justify-content: space-around;
+    justify-content: left;
 }
 /******* Nav Layout *******/
 nav {
