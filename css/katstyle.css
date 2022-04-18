@@ -103,7 +103,7 @@ nav li {
     display: grid;
     grid-column: span 6;
     margin: 2rem;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
     padding-left: 1rem;
 }
 .graphic-title {
