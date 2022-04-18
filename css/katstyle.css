@@ -108,7 +108,7 @@ nav li {
 }
 .graphic-title {
     display: grid;
-    grid-column: spa 2;
+    grid-column: span 2;
 }
 .graphic-text {
     display: grid;
