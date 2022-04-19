@@ -42,6 +42,7 @@ a:hover {
     display: grid;
     grid-column-start: 1;
     justify-content: left;
+    border-right: thin;
 }
 /******* Nav Layout *******/
 nav {
