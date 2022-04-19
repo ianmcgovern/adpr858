@@ -112,11 +112,10 @@ nav li {
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
-    text-align: left;
 }
 .graphic-title {
     display: grid;
-    grid-column-start: 4;
+    grid-column-start: auto;
     margin-left: 1rem;
 }
 .graphic-text {
