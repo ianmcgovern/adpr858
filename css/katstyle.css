@@ -124,5 +124,7 @@ nav li {
     display: grid;
     grid-column-start: 4;
     margin-left: 1rem;
+    border-left: thin solid ivory;
+    border-width: 3px;
 }
     
