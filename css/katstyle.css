@@ -96,7 +96,7 @@ nav li {
     justify-content: space-evenly;
     display: grid;
     grid-column: span 6;
-    margin: 3rem;
+    margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
 }
@@ -108,7 +108,7 @@ nav li {
     justify-content: space-evenly;
     display: grid;
     grid-column: span 6;
-    margin: 3rem;
+    margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
 }
