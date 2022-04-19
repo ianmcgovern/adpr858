@@ -99,7 +99,6 @@ nav li {
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
-    -ms-grid-column-align: center;
 }
 .graphic2 {
     border-radius: 15%;
@@ -116,12 +115,12 @@ nav li {
 }
 .graphic-title {
     display: grid;
-    grid-column-start: auto;
+    grid-column-start: 4;
     margin-left: 1rem;
 }
 .graphic-text {
     display: grid;
-    grid-column-start: auto;
+    grid-column-start: 4;
     margin-left: 1rem;
 }
     
