@@ -43,6 +43,7 @@ a:hover {
     grid-column-start: 1;
     justify-content: left;
     border-right: thin solid ivory;
+    border-width: 3px;
 }
 /******* Nav Layout *******/
 nav {
