@@ -41,7 +41,6 @@ a:hover {
 }
 .info ul {
     display: grid;
-    grid-column-start: 1;
     justify-content: left;
     border-right: thin solid ivory;
     border-width: 3px;
