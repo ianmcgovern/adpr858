@@ -106,6 +106,7 @@ nav li {
     border: solid;
     border-width: 5px;
     border-color: plum;
+    background-color: lavender;
     justify-content: space-evenly;
     display: grid;
     grid-column: span 6;
