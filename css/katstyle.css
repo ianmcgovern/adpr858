@@ -115,9 +115,11 @@ nav li {
 .graphic-title {
     display: grid;
     grid-column-start: 4;
+    margin-left: 1rem;
 }
 .graphic-text {
     display: grid;
     grid-column-start: 4;
+    margin-left: 1rem;
 }
     
