@@ -85,8 +85,6 @@ nav li {
     grid-template-columns: inherit;
     grid-column: span 12;
 }
-
-
 /******* Desktop Layout *******/
 
 
@@ -155,5 +153,18 @@ nav li {
 /******* Traveler *******/
 
 /******* Merchant *******/
+.graphic-merchant {
+    border-radius: 15%;
+    border: solid;
+    border-width: 5px;
+    border-color: plum;
+    background-color: lavender;
+    justify-content: space-evenly;
+    display: grid;
+    grid-column: span 6;
+    margin: 1rem;
+    padding-bottom: 0rem;
+    padding-left: 0rem;
+}
 
 /******* Storyteller *******/
