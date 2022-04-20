@@ -86,6 +86,7 @@ nav li {
     grid-column: span 12;
 }
 .shop {
+    display: flex;
     position: static;
     justify-content: center;
 }
