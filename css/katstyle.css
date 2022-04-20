@@ -144,6 +144,6 @@ nav li {
 }
 .insert {
     border: dotted thin turquoise;
-    
+    border-width: 7px;
 }
     
