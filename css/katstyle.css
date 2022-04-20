@@ -121,7 +121,7 @@ nav li {
     background-color: lavender;
     justify-content: space-evenly;
     display: grid;
-    grid-auto-flow: column;
+    grid-area: ;
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
