@@ -146,6 +146,7 @@ nav li {
     border: dotted thin turquoise;
     border-width: 7px;
     display: grid;
+    grid-template-columns: inherit;
     grid-column-start: 4;
 }
     
