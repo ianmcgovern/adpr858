@@ -106,7 +106,7 @@ nav a:hover {
 .button:link, .button:visited {
     color: white;
     background-color: #9abcf8;
-    text-align:center;
+    text-align: center;
     text-decoration: none;
     padding: 1.5rem 2rem;
     border-radius: .25rem;
