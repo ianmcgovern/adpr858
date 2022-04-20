@@ -161,8 +161,6 @@ nav li {
     display: flex;
     flex-flow: row wrap;
     margin: auto;
-    justify-content: center;
-    position: static;
     padding: 1rem;
 }
 
