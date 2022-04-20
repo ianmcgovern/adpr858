@@ -89,6 +89,9 @@ nav li {
     position: static;
     justify-content: center;
 }
+.graphic-merchant {
+    flex-basis: 30%;
+}
 /******* Desktop Layout *******/
 
 
