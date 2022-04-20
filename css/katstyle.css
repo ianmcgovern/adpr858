@@ -145,6 +145,8 @@ nav li {
 .insert {
     border: dotted thin turquoise;
     border-width: 7px;
+    border-top-right-radius: 20%;
+    border-top-left-radius: 20%;
     display: flex;
     flex-flow: row wrap;
     margin: auto;
