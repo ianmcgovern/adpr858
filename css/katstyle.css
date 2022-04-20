@@ -47,8 +47,7 @@ a:hover {
 }
 .pagebreak {
     position: static;
-    display: flexbox;
-    flex-flow: row wrap;
+    justify-content: center;
 }
 /******* Nav Layout *******/
 nav {
