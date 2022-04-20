@@ -44,7 +44,9 @@ a:hover {
     justify-content: left;
     border-right: thin solid ivory;
     border-width: 3px;
-    
+}
+.pagebreak {
+    position: absolute;
 }
 /******* Nav Layout *******/
 nav {
@@ -82,10 +84,7 @@ nav li {
     grid-template-columns: inherit;
     grid-column: span 12;
 }
-.pagebreak {
-    display: flex;
-    flex-flow: wrap;
-}
+
 
 /******* Desktop Layout *******/
 
