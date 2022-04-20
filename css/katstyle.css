@@ -120,7 +120,7 @@ nav li {
     border-color: plum;
     background-color: lavender;
     justify-content: space-evenly;
-    display: grid;
+    display: flex;
     grid-column: span 6;
     grid-column-start: 4;
 }
