@@ -158,10 +158,9 @@ nav li {
     border-bottom-left-radius: 20%;
     border: dotted thin turquoise;
     border-width: 7px;
-    background-color: lavender;
     justify-content: space-evenly;
-    display: grid;
-    grid-column: span 6;
+    display: flex;
+    flex-flow: row wrap;
     margin: auto;
     padding-bottom: 0rem;
     padding-left: 0rem;
