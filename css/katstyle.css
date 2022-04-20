@@ -158,7 +158,6 @@ nav li {
     border-bottom-left-radius: 20%;
     border: dotted thin turquoise;
     border-width: 7px;
-    justify-content: space-evenly;
     display: flex;
     flex-flow: row wrap;
     margin: auto;
