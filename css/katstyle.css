@@ -163,6 +163,7 @@ nav li {
     margin: auto;
     justify-content: center;
     position: static;
+    padding: 1rem;
 }
 
 /******* Storyteller *******/
