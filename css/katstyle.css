@@ -85,6 +85,10 @@ nav li {
     grid-template-columns: inherit;
     grid-column: span 12;
 }
+.shop {
+    position: static;
+    justify-content: center;
+}
 /******* Desktop Layout *******/
 
 
