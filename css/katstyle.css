@@ -113,6 +113,16 @@ nav li {
     padding-bottom: 0rem;
     padding-left: 0rem;
 }
+.graphic3 {
+    border-radius: 15%;
+    border: solid;
+    border-width: 5px;
+    border-color: plum;
+    background-color: lavender;
+    justify-content: space-evenly;
+    display: grid;
+    
+}
 .graphic-title {
     display: grid;
     grid-column-start: 4;
