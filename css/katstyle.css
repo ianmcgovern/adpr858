@@ -169,6 +169,7 @@ nav li {
     flex-flow: wrap;
     margin: auto;
     padding: 1rem;
+    text-align: center;
 }
 
 /******* Storyteller *******/
