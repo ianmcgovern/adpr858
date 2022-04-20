@@ -46,7 +46,7 @@ a:hover {
     border-width: 3px;
 }
 .pagebreak {
-    position: absolute;
+    position: static;
 }
 /******* Nav Layout *******/
 nav {
