@@ -120,7 +120,7 @@ nav li {
     border-color: plum;
     background-color: lavender;
     justify-content: space-evenly;
-    display: flex;
+    display: grid;
     grid-auto-flow: column;
     margin: 1rem;
     padding-bottom: 0rem;
