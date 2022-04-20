@@ -121,7 +121,8 @@ nav li {
     background-color: lavender;
     justify-content: space-evenly;
     display: grid;
-    
+    grid-column: span 6;
+    grid-column-start: 4;
 }
 .graphic-title {
     display: grid;
