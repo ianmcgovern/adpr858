@@ -145,8 +145,8 @@ nav li {
 .insert {
     border: dotted thin turquoise;
     border-width: 7px;
-    display: grid;
-    grid-template-columns: inherit;
-    grid-column-start: 4;
+    display: flex;
+    flex-flow: row wrap;
 }
     
+/******* Traveler *******/
