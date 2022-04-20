@@ -123,6 +123,9 @@ nav li {
     display: flex;
     grid-column: span 6;
     grid-column-start: 4;
+    margin: 1rem;
+    padding-bottom: 0rem;
+    padding-left: 0rem;
 }
 .graphic-title {
     display: grid;
