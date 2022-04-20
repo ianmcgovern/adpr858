@@ -83,9 +83,8 @@ nav li {
     grid-column: span 12;
 }
 .pagebreak {
-    display: inherit;
-    grid-template-columns: inherit;
-    grid-column: span 12;
+    display: flex;
+    flex-flow: wrap;
 }
 
 /******* Desktop Layout *******/
