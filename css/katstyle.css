@@ -166,8 +166,6 @@ nav li {
     border-bottom-left-radius: 20%;
     border: dotted thin turquoise;
     border-width: 7px;
-    display: flex;
-    flex-flow: wrap;
     margin: auto;
     padding: 1rem;
     text-align: center;
