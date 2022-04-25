@@ -1,5 +1,5 @@
 body {
-    margin: auto 10%;
+    margin: auto 5%;
     background-image: url(../images/Lanterns\ Ultra.png);
 }
 header {
@@ -178,7 +178,6 @@ nav li {
     display: flex;
     flex-flow: row wrap;
     margin: auto;
-    flex-basis: 100%;
 }
     
 /******* Traveler *******/
