@@ -129,6 +129,7 @@ nav li {
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
+    background-blend-mode: soft-light;
 }
 .graphic2 {
     border-radius: 15%;
