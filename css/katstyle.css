@@ -92,6 +92,7 @@ nav li {
     grid-template-columns: repeat(12, 1fr);
     width: min(95%)
     margin: auto;
+    opacity: 35%;
 }
 .container > * {
     grid-column: span 12;
