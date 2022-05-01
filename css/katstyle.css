@@ -87,7 +87,7 @@ nav li {
 
 /******* Layout *******/
 .container {
-    background-color: ivory;
+    background-color: whitesmoke;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     width: min(95%)
