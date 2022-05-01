@@ -169,6 +169,7 @@ nav li {
 }
 .graphic-image {
     display: grid;
+    grid-column-start: 4;
     margin: auto;
     justify-content: space-evenly;
 }
