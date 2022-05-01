@@ -38,7 +38,7 @@ a:hover {
     font-family: "cursive";
     list-style: none;
     margin: auto;
-    padding: 2rem;
+    padding: 1rem;
 }
 .info ul {
     display: block;
@@ -53,7 +53,7 @@ a:hover {
     font-family: "cursive";
     list-style: none;
     margin: auto;
-    padding: 2rem;
+    padding: 1rem;
 }
 .info2 ul {
     display: grid;
