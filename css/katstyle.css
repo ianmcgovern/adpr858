@@ -136,7 +136,6 @@ nav li {
     background-color: lavender;
     display: grid;
     grid-column: span 5;
-    grid-column-start: 8;
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
