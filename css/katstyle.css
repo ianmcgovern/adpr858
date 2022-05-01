@@ -123,7 +123,6 @@ nav li {
     border-width: 5px;
     border-color: plum;
     background-color: lavender;
-    justify-content: space-around;
     display: grid;
     grid-column: span 6;
     grid-column-start: 1;
@@ -137,7 +136,6 @@ nav li {
     border-width: 5px;
     border-color: plum;
     background-color: lavender;
-    justify-content: space-around;
     display: grid;
     grid-column: span 6;
     grid-column-start: 7;
@@ -150,7 +148,6 @@ nav li {
     border-width: 5px;
     border-color: plum;
     background-color: lavender;
-    justify-content: space-around;
     display: grid;
     grid-column: span 12;
     grid-column-start: 4;
