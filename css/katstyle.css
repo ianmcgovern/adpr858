@@ -169,6 +169,7 @@ nav li {
 }
 .graphic-image {
     display: grid;
+    grid-column-start: 5;
     margin-left: 1rem;
 }
 .insert {
