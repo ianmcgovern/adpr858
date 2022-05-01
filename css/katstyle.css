@@ -126,6 +126,8 @@ nav li {
     justify-content: space-around;
     display: grid;
     grid-column: span 5;
+    grid-column-start: 1;
+    grid-column-end: 5;
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
@@ -138,6 +140,8 @@ nav li {
     justify-content: space-around;
     display: grid;
     grid-column: span 5;
+    grid-column-start: 7;
+    grid-column-end: 12;
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
