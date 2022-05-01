@@ -170,6 +170,7 @@ nav li {
 .graphic-image {
     display: flex;
     margin-left: 1rem;
+    justify-content: space-evenly;
 }
 .insert {
     border: dotted thin turquoise;
