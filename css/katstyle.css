@@ -41,7 +41,7 @@ a:hover {
     padding: 2rem;
 }
 .info ul {
-    display: flex;
+    display: block;
     justify-content: left;
     border-right: thin solid whitesmoke;
     border-width: 3px;
