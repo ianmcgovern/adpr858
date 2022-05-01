@@ -169,7 +169,7 @@ nav li {
 }
 .graphic-image {
     display: flex;
-    margin-left: 1rem;
+    margin: auto;
     justify-content: space-evenly;
 }
 .insert {
