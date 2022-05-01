@@ -129,6 +129,7 @@ nav li {
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
+    align-items: stretch;
 }
 .graphic2 {
     border: solid;
