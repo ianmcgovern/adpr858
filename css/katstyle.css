@@ -144,6 +144,7 @@ nav li {
     display: grid;
     grid-column: span 2;
     opacity: 35%;
+    background-color:lightsteelblue;
 }
 .graphic3 {
     border: solid;
