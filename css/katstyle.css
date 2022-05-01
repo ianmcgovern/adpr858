@@ -127,7 +127,7 @@ nav li {
     display: grid;
     grid-column: span 5;
     grid-column-start: 1;
-    grid-column-end: 5;
+    grid-column-end: 6;
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
