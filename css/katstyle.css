@@ -140,6 +140,10 @@ nav li {
     padding-bottom: 0rem;
     padding-left: 0rem;
 }
+.spacer {
+    display: grid;
+    grid-column: span 2;
+}
 .graphic3 {
     border: solid;
     border-width: 5px;
