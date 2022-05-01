@@ -171,6 +171,7 @@ nav li {
     display: grid;
     grid-column-start: 4;
     justify-content: center;
+    margin: auto;
 }
 .insert {
     border: dotted thin turquoise;
