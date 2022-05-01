@@ -168,6 +168,11 @@ nav li {
     margin-left: 1rem;
     text-align: center;
 }
+.graphic-image {
+    display: grid;
+    grid-column-start: 4;
+    margin-left: 1rem;
+}
 .insert {
     border: dotted thin turquoise;
     border-width: 7px;
