@@ -92,7 +92,6 @@ nav li {
     grid-template-columns: repeat(12, 1fr);
     width: min(95%)
     margin: auto;
-    opacity: 35%;
 }
 .container > * {
     grid-column: span 12;
@@ -129,6 +128,7 @@ nav li {
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
+    opacity: 35%;
 }
 .graphic2 {
     border: solid;
