@@ -157,7 +157,6 @@ nav li {
     padding-left: 0rem;
 }
 .graphic-title {
-    display: grid;
     grid-column-start: 4;
     margin-left: 1rem;
     text-align: center;
