@@ -73,10 +73,6 @@ a:hover {
     background-color: lightseagreen;
     margin: none;
 }
-.index2 {
-    margin: auto 4%;
-    background-image: url(../images/tokyonight.png);
-}
 /******* Nav Layout *******/
 nav {
     background-color:palevioletred; 
