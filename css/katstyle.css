@@ -115,7 +115,9 @@ nav li {
     grid-column: span 12;
 }
 .pagebreak {
-
+    display: grid;
+    grid-template-rows: auto;
+    grid-row: span 4;
 }
 .shop {
     display: flex;
