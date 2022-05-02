@@ -58,7 +58,7 @@ a:hover {
 .info2 ul {
     display: grid;
     justify-content: left;
-    border-right: thin solid whitesmoke;
+    border-right: thin solid palevioletred;
     border-width: 3px;
 }
 .pagebreak {
