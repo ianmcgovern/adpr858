@@ -140,7 +140,7 @@ nav li {
     padding-left: 0rem;
 }
 .graphic2 {
-    box-shadow: 20px 20px 30px 20px skyblue inset;
+    box-shadow: 20px 20px 30px 20px lightcoral inset;
     opacity: 85%;
     background-color: lavenderblush;
     display: grid;
@@ -155,7 +155,7 @@ nav li {
     opacity: 100%;
 }
 .graphic3 {
-    box-shadow: 20px 20px 30px 20px skyblue inset;
+    box-shadow: 20px 20px 30px 20px lightsalmon inset;
     opacity: 85%;
     background-color: lavenderblush;
     display: grid;
