@@ -43,7 +43,7 @@ a:hover {
 .info ul {
     display: block;
     justify-content: left;
-    border-right: thin solid whitesmoke;
+    border-right: thin solid lightseagreen;
     border-width: 3px;
 }
 .info2 li {
