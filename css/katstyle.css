@@ -43,7 +43,7 @@ a:hover {
 .info ul {
     display: block;
     justify-content: left;
-    border-right: thin solid lightseagreen;
+    border-right: thin solid palevioletred;
     border-width: 3px;
 }
 .info2 li {
@@ -133,7 +133,7 @@ nav li {
     border: solid;
     border-width: 5px;
     border-color: plum;
-    background-color: lavender;
+    background-color: snow;
     display: grid;
     grid-column: span 5;
     margin: 1rem;
@@ -150,7 +150,7 @@ nav li {
     border: solid;
     border-width: 5px;
     border-color: plum;
-    background-color: lavender;
+    background-color: snow;
     display: grid;
     grid-column: span 12;
     grid-column-start: 4;
