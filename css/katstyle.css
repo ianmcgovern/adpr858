@@ -118,7 +118,7 @@ nav li {
 
 /******* Components *******/
 .graphic1 {
-    box-shadow: 20px 20px 20px 10px midnightblue;
+    box-shadow: 20px 20px 20px 10px midnightblue inset;
     background-color: lavenderblush;
     display: grid;
     grid-column: span 5;
