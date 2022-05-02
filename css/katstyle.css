@@ -1,6 +1,5 @@
 .index {
-    margin: auto 4%;
-    background-image: url(../images/city\ evening.png);
+    
 }
 header {
     color: snow;
@@ -10,6 +9,10 @@ header {
     background-color: lightseagreen;
     grid-column: span 12;
     position: sticky;
+}
+.container1 {
+    margin: auto 4%;
+    background-image: url(../images/city\ evening.png);
 }
 li {
     color: black;
