@@ -71,6 +71,7 @@ a:hover {
 }
 .pagebreak {
     background-color: lightseagreen;
+    margin: none;
 }
 /******* Nav Layout *******/
 nav {
