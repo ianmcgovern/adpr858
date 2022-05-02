@@ -92,9 +92,7 @@ nav li {
     grid-column: span 12;
 }
 .title {
-    display: inherit;
-    grid-template-columns: inherit;
-    grid-column: auto;
+    display: inline;
     grid-column-start: 4;
     grid-column-end: 9;
 }
@@ -125,7 +123,6 @@ nav li {
 /******* Components *******/
 .title-text {
     text-align: center;
-    display: inline;
 }
 .graphic1 {
     box-shadow: 20px 20px 30px 20px skyblue inset;
