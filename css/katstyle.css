@@ -118,6 +118,7 @@ nav li {
 
 /******* Components *******/
 .graphic1 {
+    box-shadow: midnightblue;
     background-color: lavenderblush;
     display: grid;
     grid-column: span 5;
