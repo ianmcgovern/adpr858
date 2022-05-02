@@ -118,9 +118,6 @@ nav li {
 
 /******* Components *******/
 .graphic1 {
-    border: solid;
-    border-width: 5px;
-    border-color: plum;
     background-color: lavenderblush;
     display: grid;
     grid-column: span 5;
@@ -129,9 +126,6 @@ nav li {
     padding-left: 0rem;
 }
 .graphic2 {
-    border: solid;
-    border-width: 5px;
-    border-color: plum;
     background-color: lavenderblush;
     display: grid;
     grid-column: span 5;
@@ -145,9 +139,6 @@ nav li {
     opacity: 100%;
 }
 .graphic3 {
-    border: solid;
-    border-width: 5px;
-    border-color: plum;
     background-color: lavenderblush;
     display: grid;
     grid-column: span 12;
