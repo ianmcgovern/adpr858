@@ -133,7 +133,6 @@ nav li {
     box-shadow: 20px 20px 30px 20px skyblue inset;
     opacity: 100%;
     background-color: lavenderblush;
-    display: grid;
     grid-column: span 5;
     margin: 1rem;
     padding-bottom: 0rem;
