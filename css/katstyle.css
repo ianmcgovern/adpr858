@@ -73,6 +73,9 @@ a:hover {
     background-color: lightseagreen;
     margin: none;
 }
+.index2 {
+    margin: auto 4%;
+}
 /******* Nav Layout *******/
 nav {
     background-color:palevioletred; 
