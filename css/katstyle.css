@@ -61,10 +61,6 @@ a:hover {
     border-right: thin solid palevioletred;
     border-width: 3px;
 }
-.pagebreak {
-    position: static;
-    justify-content: center;
-}
 /******* Nav Layout *******/
 nav {
     background-color:palevioletred; 
@@ -86,13 +82,13 @@ nav li {
 }
 
 /******* Layout *******/
-.container {
+.container1 {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     width: min(95%)
     margin: auto;
 }
-.container > * {
+.container1 > * {
     grid-column: span 12;
 }
 .info {
@@ -104,6 +100,9 @@ nav li {
     display: inherit;
     grid-template-columns: inherit;
     grid-column: span 12;
+}
+.pagebreak {
+    
 }
 .shop {
     display: flex;
