@@ -121,7 +121,7 @@ nav li {
     border: solid;
     border-width: 5px;
     border-color: plum;
-    background-color: snow;
+    background-color: lavenderblush;
     display: grid;
     grid-column: span 5;
     margin: 1rem;
@@ -132,7 +132,7 @@ nav li {
     border: solid;
     border-width: 5px;
     border-color: plum;
-    background-color: snow;
+    background-color: lavenderblush;
     display: grid;
     grid-column: span 5;
     margin: 1rem;
@@ -148,7 +148,7 @@ nav li {
     border: solid;
     border-width: 5px;
     border-color: plum;
-    background-color: snow;
+    background-color: lavenderblush;
     display: grid;
     grid-column: span 12;
     grid-column-start: 4;
