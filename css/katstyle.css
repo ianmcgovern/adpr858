@@ -31,6 +31,14 @@ a:hover {
     border-left: oldlace thin;
     border-right: oldlace thin;
 }
+.title-text {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'cursive';
+    font-style: italic;
+    font-weight: lighter;
+    color: snow;
+}
 .info li {
     font-size: 20px;
     font-weight: lighter;
@@ -121,14 +129,6 @@ nav li {
 
 
 /******* Components *******/
-.title-text {
-    text-align: center;
-    font-size: 30px;
-    font-family: 'cursive';
-    font-style: italic;
-    font-weight: lighter;
-    color: snow;
-}
 .graphic1 {
     box-shadow: 20px 20px 30px 20px skyblue inset;
     opacity: 100%;
