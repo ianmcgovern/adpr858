@@ -94,7 +94,7 @@ nav li {
 .title {
     display: inline;
     grid-column-start: 4;
-    grid-column-end: 9;
+    grid-column-end: 10;
 }
 .info {
     display: inherit;
