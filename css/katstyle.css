@@ -93,8 +93,8 @@ nav li {
 }
 .title {
     display: inline;
-    grid-column-start: 4;
-    grid-column-end: 10;
+    grid-column-start: 3;
+    grid-column-end: 11;
 }
 .info {
     display: inherit;
@@ -123,6 +123,9 @@ nav li {
 /******* Components *******/
 .title-text {
     text-align: center;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
 }
 .graphic1 {
     box-shadow: 20px 20px 30px 20px skyblue inset;
