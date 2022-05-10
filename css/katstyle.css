@@ -77,7 +77,7 @@ a:hover {
 }
 /******* Nav Layout *******/
 nav {
-    background-color: mediumvioletred; 
+    background-color: palevioletred; 
     padding: 0 1rem;
     display: flex;
     justify-content: center;
