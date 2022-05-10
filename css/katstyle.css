@@ -209,13 +209,16 @@ nav li {
     background-image: url(../images/tokyostreetevening.png);
 }
 .graphic-merchant {
-    border-bottom-right-radius: 20%;
-    border-bottom-left-radius: 20%;
-    border: dotted thin turquoise;
-    border-width: 7px;
-    margin: auto;
-    padding: 1rem;
-    text-align: center;
+    box-shadow: 20px 20px 30px 20px plum inset;
+    opacity: 85%;
+    background-color: lavenderblush;
+    display: grid;
+    grid-column: span 12;
+    grid-column-start: 4;
+    grid-column-end: 10;
+    margin: 1rem;
+    padding-bottom: 0rem;
+    padding-left: 0rem;
 }
 
 /******* Storyteller *******/
