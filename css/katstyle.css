@@ -208,6 +208,14 @@ nav li {
     margin: auto 4%;
     background-image: url(../images/tokyostreetevening.png);
 }
+.title-merchant {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'cursive';
+    font-style: italic;
+    font-weight: lighter;
+    color: cornsilk;
+}
 .graphic-merchant {
     background-color: lavenderblush;
     display: grid;
