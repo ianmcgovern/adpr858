@@ -70,10 +70,11 @@ a:hover {
     border-width: 3px;
 }
 .pagebreak {
-    background-color: lightseagreen;
+    background-color: turquoise;
     margin: none 0%;
     text-align: left;
     font-weight: lighter;
+    color: snow;
 }
 /******* Nav Layout *******/
 nav {
