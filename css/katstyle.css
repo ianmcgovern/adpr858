@@ -211,13 +211,14 @@ nav li {
 .graphic-merchant {
     background-color: lavenderblush;
     display: grid;
-    opacity: 85%;
     grid-column: span 12;
     grid-column-start: 4;
     grid-column-end: 10;
+    opacity: 85%;
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
+    text-align: center;
 }
 
 /******* Storyteller *******/
