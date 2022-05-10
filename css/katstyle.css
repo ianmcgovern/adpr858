@@ -209,8 +209,6 @@ nav li {
     background-image: url(../images/tokyostreetevening.png);
 }
 .graphic-merchant {
-    box-shadow: 20px 20px 30px 20px plum inset;
-    opacity: 85%;
     background-color: lavenderblush;
     display: grid;
     grid-column: span 12;
