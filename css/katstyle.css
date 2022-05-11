@@ -228,6 +228,11 @@ nav li {
     font-weight: lighter;
     color: black;
 }
+.spacer-merchant {
+    display: grid;
+    grid-column: span 2;
+    opacity: 100%;
+}
 .graphic1-merchant {
     box-shadow: 20px 20px 30px 20px skyblue inset;
     opacity: 85%;
