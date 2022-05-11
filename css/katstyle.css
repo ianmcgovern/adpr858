@@ -203,6 +203,10 @@ nav li {
 }
     
 /************** TRAVELER **************/
+.traveler {
+    margin: auto 4%;
+    background-image: url(../images/citydusk.png);
+}
 
 /************** MERCHANT **************/
 .merchant {
@@ -258,3 +262,7 @@ nav li {
 }
 
 /************** STORYTELLER **************/
+.storyteller {
+    margin: auto 4%;
+    background-image: url(../images/citydawn.png);
+}
