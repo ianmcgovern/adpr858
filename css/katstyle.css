@@ -209,6 +209,14 @@ nav li {
 }
 
 /******* Components *******/
+.mediascroller {
+    display: grid;
+    gap: var(--size-4);
+    grid-auto-flow: column;
+    grid-auto-columns: 30%;
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+}
 
 /************** MERCHANT **************/
 .merchant {
