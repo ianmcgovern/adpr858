@@ -208,6 +208,8 @@ nav li {
     background-image: url(../images/citydusk.png);
 }
 
+/******* Components *******/
+
 /************** MERCHANT **************/
 .merchant {
     margin: auto 4%;
@@ -266,3 +268,5 @@ nav li {
     margin: auto 4%;
     background-image: url(../images/citydawn.png);
 }
+
+/******* Components *******/
