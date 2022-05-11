@@ -212,7 +212,7 @@ nav li {
     display: inline;
     grid-column-start: 3;
     grid-column-end: 11;
-    background-color: lavender;
+    background-color: lavenderblush;
     margin: 1rem;
     padding: 1rem;
 }
