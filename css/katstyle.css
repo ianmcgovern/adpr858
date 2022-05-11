@@ -1,3 +1,4 @@
+/************** INDEX **************/
 .index {
     margin: auto 4%;
     background-image: url(../images/city\ evening.png);
@@ -201,13 +202,15 @@ nav li {
     margin: auto;
 }
     
-/******* Traveler *******/
+/************** TRAVELER **************/
 
-/******* Merchant *******/
+/************** MERCHANT **************/
 .merchant {
     margin: auto 4%;
     background-image: url(../images/tokyostreetevening.png);
 }
+
+/******* Components *******/
 .title-merchant {
     display: inline;
     grid-column-start: 3;
@@ -254,4 +257,4 @@ nav li {
     padding-left: 0rem;
 }
 
-/******* Storyteller *******/
+/************** STORYTELLER **************/
