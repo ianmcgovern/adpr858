@@ -216,6 +216,7 @@ nav li {
     opacity: 90%;
     margin: 1rem;
     padding: 1rem;
+    border-radius: 15%;
 }
 .title-text-merchant {
     text-align: center;
