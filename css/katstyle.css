@@ -212,7 +212,7 @@ nav li {
     display: inline;
     grid-column-start: 3;
     grid-column-end: 11;
-    background-color: lavenderblush;
+    background-color: darkgray;
     opacity: 85%;
     margin: 1rem;
     padding: 1rem;
@@ -223,7 +223,7 @@ nav li {
     font-family: 'cursive';
     font-style: italic;
     font-weight: lighter;
-    color: violet;
+    color: snow;
 }
 .graphic-merchant {
     background-color: lavenderblush;
