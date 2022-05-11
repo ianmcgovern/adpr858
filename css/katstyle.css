@@ -213,7 +213,7 @@ nav li {
     display: grid;
     gap: var(--size-4);
     grid-auto-flow: column;
-    grid-auto-columns: 50%;
+    grid-auto-columns: 45%;
     overflow-x: auto;
     overscroll-behavior-inline: contain;
 }
