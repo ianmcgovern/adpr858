@@ -228,17 +228,25 @@ nav li {
     font-weight: lighter;
     color: black;
 }
-.graphic-merchant {
+.graphic1-merchant {
+    box-shadow: 20px 20px 30px 20px skyblue inset;
+    opacity: 85%;
     background-color: lavenderblush;
     display: grid;
-    grid-column: span 12;
-    grid-column-start: 4;
-    grid-column-end: 10;
-    opacity: 85%;
+    grid-column: span 5;
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
-    text-align: center;
+}
+.graphic2-merchant {
+    box-shadow: 20px 20px 30px 20px lightcoral inset;
+    opacity: 85%;
+    background-color: lavenderblush;
+    display: grid;
+    grid-column: span 5;
+    margin: 1rem;
+    padding-bottom: 0rem;
+    padding-left: 0rem;
 }
 
 /******* Storyteller *******/
