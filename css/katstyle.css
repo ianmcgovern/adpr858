@@ -230,7 +230,7 @@ nav li {
 }
 .spacer-merchant {
     display: grid;
-    grid-column: span 2;
+    grid-column: span 3;
     opacity: 100%;
 }
 .graphic1-merchant {
