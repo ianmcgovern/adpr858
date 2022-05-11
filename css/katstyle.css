@@ -233,7 +233,7 @@ nav li {
     opacity: 85%;
     background-color: lavenderblush;
     display: grid;
-    grid-column: span 5;
+    grid-column: span 4;
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
@@ -243,7 +243,7 @@ nav li {
     opacity: 85%;
     background-color: lavenderblush;
     display: grid;
-    grid-column: span 5;
+    grid-column: span 4;
     margin: 1rem;
     padding-bottom: 0rem;
     padding-left: 0rem;
