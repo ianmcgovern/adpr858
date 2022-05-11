@@ -213,7 +213,8 @@ nav li {
     grid-column-start: 3;
     grid-column-end: 11;
     background-color:lightgoldenrodyellow;
-    border: dotted darkturquoise 3px;
+    border: dotted darkturquoise;
+    border-width: 3px;
     opacity: 90%;
     margin: 1rem;
     padding: 1rem;
