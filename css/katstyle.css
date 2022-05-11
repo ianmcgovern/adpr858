@@ -216,6 +216,7 @@ nav li {
     grid-auto-columns: 45%;
     overflow-x: auto;
     overscroll-behavior-inline: contain;
+    background-color: steelblue;
 }
 
 /************** MERCHANT **************/
