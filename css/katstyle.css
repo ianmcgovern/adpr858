@@ -208,6 +208,11 @@ nav li {
     margin: auto 4%;
     background-image: url(../images/tokyostreetevening.png);
 }
+.title-merchant {
+    display: inline;
+    grid-column-start: 3;
+    grid-column-end: 11;
+}
 .title-text-merchant {
     text-align: center;
     font-size: 30px;
