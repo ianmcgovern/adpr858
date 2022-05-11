@@ -214,6 +214,8 @@ nav li {
     grid-column-end: 11;
     background-color: lavender;
     opacity: 90%;
+    margin: auto;
+    padding: 1rem;
 }
 .title-text-merchant {
     text-align: center;
