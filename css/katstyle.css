@@ -256,6 +256,7 @@ nav li {
     font-size: 40px;
     font-family: 'cursive';
     font-style: italic;
+    text-align: center;
     display: grid;
     grid-column: span 6;
 }
@@ -264,6 +265,7 @@ nav li {
     font-size: 40px;
     font-family: 'cursive';
     font-style: italic;
+    text-align: center;
     display: grid;
     grid-column: span 6;
 }
