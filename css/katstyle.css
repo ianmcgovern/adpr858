@@ -140,6 +140,7 @@ nav li {
         display: flex;
         justify-content: center;
         flex-flow: row wrap;
+        flex-basis: 32.5%;
     }
 }
 
