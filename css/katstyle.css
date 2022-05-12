@@ -278,8 +278,9 @@ nav li {
     border: solid thin mistyrose;
     border-radius: 15%;
 }
-.merchant a {
-
+.merchant a:hover, .merchant a:visited {
+    background-color: lightsteelblue;
+    transition: background-color 0.3s ease;
 }
 
 /************** STORYTELLER **************/
