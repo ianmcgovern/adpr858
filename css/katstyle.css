@@ -271,7 +271,7 @@ nav li {
     text-align: center;
     display: grid;
     grid-column: span 6;
-    margin: 1rem;
+    margin: 2rem;
 }
 .spacer-merchant {
     display: grid;
