@@ -279,7 +279,7 @@ nav li {
     border-radius: 15%;
 }
 .merchant a:hover, .merchant a:visited {
-    background-color: lightsteelblue;
+    background-color: black;
     transition: background-color 0.3s ease;
 }
 
