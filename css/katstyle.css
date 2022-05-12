@@ -278,7 +278,11 @@ nav li {
     border: solid thin mistyrose;
     border-radius: 15%;
 }
-.merchant a:hover, .merchant a:visited {
+.graphic1-merchant:hover, .graphic1-merchant:visited {
+    background-color: violet;
+    transition: background-color 0.3s ease;
+}
+.graphic2-merchant:hover, .graphice2-merchant:visited {
     background-color: violet;
     transition: background-color 0.3s ease;
 }
