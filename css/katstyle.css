@@ -135,7 +135,13 @@ nav li {
     flex-basis: 55%;
 }
 /******* Desktop Layout *******/
-
+@media screen and (min-width: 60rem) {
+    .info-storyteller {
+        display: flex;
+        justify-content: center;
+        flex-flow: row wrap;
+    }
+}
 
 /******* Components *******/
 .graphic1 {
@@ -318,7 +324,7 @@ nav li {
 }
 
 /******* Layout *******/
-.info {
+.info-storyteller {
     display: flexbox;
     flex-flow: row wrap;
     flex-basis: 32.5%
