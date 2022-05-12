@@ -253,7 +253,7 @@ nav li {
 }
 .spacer-merchant {
     display: grid;
-    grid-column: span 4;
+    grid-column: span 2;
     opacity: 100%;
 }
 .graphic1-merchant {
