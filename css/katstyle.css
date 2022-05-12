@@ -261,6 +261,7 @@ nav li {
     display: grid;
     grid-column: span 6;
     margin: 1rem;
+    padding: 1rem;
 }
 .subtitle2-merchant {
     background-color: lightgoldenrodyellow;
@@ -271,7 +272,8 @@ nav li {
     text-align: center;
     display: grid;
     grid-column: span 6;
-    margin: 2rem;
+    margin: 1rem;
+    padding: 1rem;
 }
 .spacer-merchant {
     display: grid;
