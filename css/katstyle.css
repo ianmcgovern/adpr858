@@ -274,6 +274,10 @@ nav li {
     margin: 1rem;
     padding: 1rem;
 }
+.graphic-image {
+    border: solid thin mistyrose;
+    border-radius: 15%;
+}
 
 /************** STORYTELLER **************/
 .storyteller {
