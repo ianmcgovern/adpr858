@@ -251,6 +251,22 @@ nav li {
     font-weight: lighter;
     color: black;
 }
+.subtitle1-merchant {
+    background-color: lightgoldenrodyellow;
+    font-size: 40px;
+    font-family: 'cursive';
+    font-style: italic;
+    display: grid;
+    grid-column: span 6;
+}
+.subtitle2-merchant {
+    background-color: lightgoldenrodyellow;
+    font-size: 40px;
+    font-family: 'cursive';
+    font-style: italic;
+    display: grid;
+    grid-column: span 6;
+}
 .spacer-merchant {
     display: grid;
     grid-column: span 2;
