@@ -325,7 +325,7 @@ nav li {
 }
 
 /******* Components *******/
-.graphic1 {
+.graphic1-storyteller {
     box-shadow: 20px 20px 30px 20px skyblue inset;
     opacity: 85%;
     background-color: lavenderblush;
@@ -333,7 +333,7 @@ nav li {
     padding-bottom: 0rem;
     padding-left: 0rem;
 }
-.graphic2 {
+.graphic2-storyteller {
     box-shadow: 20px 20px 30px 20px lightcoral inset;
     opacity: 85%;
     background-color: lavenderblush;
@@ -341,7 +341,7 @@ nav li {
     padding-bottom: 0rem;
     padding-left: 0rem;
 }
-.graphic3 {
+.graphic3-storyteller {
     box-shadow: 20px 20px 30px 20px plum inset;
     opacity: 85%;
     background-color: lavenderblush;
